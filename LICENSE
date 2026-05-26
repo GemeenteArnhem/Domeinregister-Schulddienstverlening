@@ -1,0 +1,173 @@
+EUROPEAN UNION PUBLIC LICENCE v. 1.2
+EUPL © 2007 European Community
+
+This European Union Public Licence (the "EUPL") applies to the Work (as defined
+below) which is provided under the terms of this Licence. Any use of the Work,
+other than as authorised under this Licence is prohibited (to the extent such
+use is covered by a right of the copyright holder of the Work).
+
+The Work is provided under the terms of this Licence when the Licensor (as
+defined below) has placed the following notice immediately following the
+copyright notice of the Work:
+
+Licensed under the EUPL
+
+or has expressed by any other means his willingness to license under the EUPL.
+
+1. Definitions
+
+In this Licence, the following terms and conditions apply:
+
+- 'The Licence': this licence.
+
+- 'The Original Work': the work or software distributed or communicated by the
+  Licensor under this Licence, available as source code and also as compiled
+  code as the case may be.
+
+- 'Derivative Works': any work or software, other than the Original Work, that
+  is based on (or derived from) the Original Work.
+
+All files are considered part of the Original Work.
+
+- 'The Work': the Original Work or any Derivative Works.
+
+- 'Source code': the human-readable form of the Work which is the most
+  convenient for people to study and modify.
+
+- 'Compiled code': any code which has been generated from the Source code by
+  a compiler and meant for execution by a computer processor.
+
+- 'The Licensor': the natural or legal person that distributes or communicates
+  the Work under the Licence.
+
+- 'Contributor(s)': any natural or legal person who modifies the Work under
+  the Licence, or otherwise contributes to the creation of Derivative Works.
+
+- 'The Licensee' or 'You': any natural or legal person who makes any usage of
+  the Work under the terms of the Licence.
+
+- 'Distribution' or 'Communication': any act of selling, giving, lending,
+  renting, distributing, communicating, transmitting, or otherwise making
+  available, on-line or off-line, copies of the Work or providing access to
+  its essential functionalities at the disposal of any other natural or legal
+  person.
+
+2. Scope of the rights granted by the Licence
+
+The Licensor hereby grants you world-wide, royalty-free, non-exclusive,
+sub-licensable licence to do the acts mentioned in the following point (a),
+for the duration of the copyright vested in the Original Work.
+
+The Licensor grants you the right to exercise the rights set out in the previous
+paragraph on any media.
+
+3. Communication of the Source Code
+
+The Licensor may provide the Work either in its Source code form, or as Compiled
+code. If the Work is provided as Compiled code, the Licensor must provide in
+addition a machine-readable copy of the Source code of the Work along with each
+copy of the Compiled code provided by the Licensor, or will indicate, in a notice
+following the copyright notice attached to the Work, a repository where the
+Source code is easily and freely accessible for as long as the Licensor continues
+to distribute and communicate the Work.
+
+4. Limitations on copyright
+
+Nothing in this Licence is intended to deprive the Licensee of the benefits from
+any exception or limitation to the exclusive rights of the rights owners in the
+Work, of the exhaustion of those rights or of other applicable limitations
+thereto.
+
+5. Obligations of the Licensee
+
+The grant of the rights mentioned above is subject to some restrictions and
+obligations imposed on the Licensee. Those obligations are the following:
+
+(a) Attribution right: The Licensee shall keep intact all copyright, patent or
+    trademarks notices and all notices that refer to the Licence and to the
+    disclaimer of warranties. The Licensee must include a copy of such notices
+    and a copy of the Licence with every copy of the Work he/she distributes or
+    communicates. The Licensee must cause any Derivative Works to carry prominent
+    notices stating that the Work has been modified and the date of modification.
+
+(b) Copyleft clause: If the Licensee distributes or communicates copies of the
+    Original Works or Derivative Works, this distribution or communication will
+    be done under the terms of this Licence or of a later version of this
+    Licence unless the Original Work is expressly distributed only under this
+    version of the Licence — for example with 'EUPL v. 1.2 only'. The Licensee
+    (becoming Licensor) cannot impose any further restrictions on the rights
+    granted and must impose the same restrictions on any Derivative Work.
+
+(c) Compatibility clause: If the Licensee distributes or communicates Derivative
+    Works or copies thereof based upon both the Work and another work licensed
+    under a Compatible Licence, this distribution or communication can be done
+    under the terms of this Compatible Licence.
+
+    For the sake of this clause, "Compatible Licence" refers to the licences
+    listed in the appendix attached to this Licence. Should the Licensee's
+    obligations under the Compatible Licence conflict with his/her obligations
+    under this Licence, the obligations of the Compatible Licence shall prevail.
+
+6. Disclaimer of Warranty
+
+The Work is a work in progress, being actively developed by many contributors.
+It is not a finished work and may therefore contain defects or "bugs" inherent
+to this type of development.
+
+For the above reason, the Work is provided under the Licence on an "as is" basis
+and without warranties of any kind concerning the Work, including without
+limitation merchantability, fitness for a particular purpose, absence of defects
+or errors, accuracy, non-infringement of intellectual property rights other than
+copyright as stated in Article 6 of this Licence.
+
+This disclaimer of warranty is an essential part of the Licence and a condition
+for the grant of any rights to the Work.
+
+7. Limitation of Liability
+
+Except in the cases of wilful misconduct or damages directly caused to natural
+persons, the Licensor will in no event be liable for any direct or indirect,
+material or moral, damages of any kind, arising out of the Licence or of the use
+of the Work, including without limitation, damages for loss of goodwill, work
+stoppage, computer failure or malfunction, loss of data or any commercial damage,
+even if the Licensor has been advised of the possibility of such damage.
+
+8. Termination
+
+This Licence and the rights granted hereunder will terminate automatically upon
+any breach by the Licensee of the terms of the Licence.
+
+Such a termination will not terminate the licences of any person who has received
+the Work from the Licensee under the Licence, provided such persons remain in
+full compliance with the Licence.
+
+9. Miscellaneous
+
+Without prejudice to Article 8, if any provision of this Licence is found to be
+null and void, it shall be modified to the minimum extent necessary to make it
+valid and enforceable. The Licensor may publish new versions of this Licence or
+newer versions of the EUPL licence subject to the requirements of Article 10(c).
+
+10. Relation to other Rights
+
+Any rights granted under Article 6 of the original EUPL are without prejudice to
+any patrimonial rights of the Licensor in the Work.
+
+The Licensor retains the right to grant licences to third parties.
+
+11. Use of the Work
+
+Any natural or legal entity has the right to use the Work, in accordance with
+the provisions of this Licence, under all the conditions set out herein.
+
+---
+
+## APPENDIX: Compatible Licences under Article 5(c) EUPL
+
+GNU General Public License (GNU GPL) v. 2, v. 3
+GNU Lesser General Public License (GNU LGPL) v. 2.1, v. 3
+Open Software License (OSL) v. 2.1, v. 3.0
+Common Public License v. 1.0
+CeCILL v. 2.0
+Mozilla Public Licence (MPL) v. 2.0
+GNU Affero General Public License v. 3 (AGPL v. 3)
